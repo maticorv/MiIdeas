@@ -1,2 +1,2 @@
 # MiIdeas
-ionic proyect with firebase backend
+Ionic app to save yours ideas in firebase
